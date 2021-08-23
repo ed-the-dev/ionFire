@@ -1,0 +1,7 @@
+{
+  "name": "ionFire",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
